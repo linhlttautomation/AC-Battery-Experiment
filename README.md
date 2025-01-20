@@ -12,6 +12,9 @@
 ## Enlarged Result
 ![Enlarged Result](https://github.com/linhlttautomation/AC-Battery-Experiment/blob/main/Enlarged%20Result.png)
 
+## Memory Optimization
+![Memory Optimization](https://github.com/linhlttautomation/AC-Battery-Experiment/blob/main/Memory%20Optimization.png)
+
 
 
 
