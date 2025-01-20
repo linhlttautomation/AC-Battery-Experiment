@@ -1,2 +1,6 @@
 # AC-Battery-Experiment
-![Alt text](URL_hoặc_đường_dẫn_tới_ảnh)
+# Dự án của tôi
+
+Đây là ảnh minh họa:
+![Hình minh họa]()
+
