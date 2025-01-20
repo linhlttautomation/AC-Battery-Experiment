@@ -1,0 +1,18 @@
+﻿
+---------------------------------------------------------
+Chương trình điều khiển bộ DC/AC 3 pha 4 dây công suất 11kW 
+
+---------------------------------------------------------
+Người lập trình: Lê Quang Nghĩa
+Ngày viết: 05/10/2022
+Giới thiệu:
+1. Chương trình được lập trình theo file mô phỏng
+2. Cho phép nạp trên RAM hoặc FLASH.
+3. Cho phép chạy 2 phương pháp phát xung: SVM-3D và RSPWM
+4. Có 2 chế độ khởi động: Ramp Vref và Set Duty
+
+Chú ý:
+1. Chuyển chế độ phát xung từ RSPWM sang SVM-3D phải Comment-Out hàm Setup_CLB ở file Main
+2. Chuyển chế độ khởi động:
+- Ramp Vref: Giá trị khởi tạo và reset của biến ramp_switch phải đặt bằng 1
+- Set Duty: Giá trị khởi tạo và reset của biến ramp_switch phải đặt bằng 0

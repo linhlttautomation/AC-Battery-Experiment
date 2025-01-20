@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ExportImportMemento.1>
+<VarMeta IMemento.internal.id="START"/>
+<VarMeta IMemento.internal.id="pwm"/>
+<VarMeta IMemento.internal.id="pwm"/>
+<VarMeta IMemento.internal.id="Us"/>
+<VarMeta IMemento.internal.id="Spwm"/>
+<VarMeta IMemento.internal.id="ChannelAdc"/>
+<VarMeta IMemento.internal.id="CpuToCLA"/>
+<VarMeta IMemento.internal.id="EPwm3Regs.CMPA.bit.CMPA"/>
+<VarMeta IMemento.internal.id="EPwm1Regs.CMPA.bit.CMPA"/>
+<VarMeta IMemento.internal.id="pwm1.PeriodMax"/>
+<VarMeta IMemento.internal.id="pwm"/>
+<VarMeta IMemento.internal.id="EPwm1Regs"/>
+</ExportImportMemento.1>

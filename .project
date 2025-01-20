@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>TNR_DCAC_3P4D_50kHz_old</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.cdt.managedbuilder.core.genmakebuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>org.eclipse.cdt.managedbuilder.core.ScannerConfigBuilder</name>
+			<triggers>full,incremental,</triggers>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>com.ti.ccstudio.core.ccsNature</nature>
+		<nature>org.eclipse.cdt.core.cnature</nature>
+		<nature>org.eclipse.cdt.managedbuilder.core.managedBuildNature</nature>
+		<nature>org.eclipse.cdt.core.ccnature</nature>
+		<nature>org.eclipse.cdt.managedbuilder.core.ScannerConfigNature</nature>
+	</natures>
+	<variableList>
+		<variable>
+			<name>C2000WARE_ROOT</name>
+			<value>file:/C:/ti/c2000/C2000Ware_4_01_00_00</value>
+		</variable>
+		<variable>
+			<name>CLAMATH_ROOT</name>
+			<value>file:/C:/ti/controlSUITE/libs/math/CLAmath/v400</value>
+		</variable>
+		<variable>
+			<name>CLB_SYSCFG_ROOT</name>
+			<value>file:/C:/ti/c2000/C2000Ware_4_01_00_00/utilities/clb_tool/clb_syscfg</value>
+		</variable>
+		<variable>
+			<name>SYSTEMC_INSTALL</name>
+			<value>file:/C:/ti/c2000/C2000Ware_4_01_00_00/utilities/clb_tool/clb_syscfg/systemc-2.3.3</value>
+		</variable>
+	</variableList>
+</projectDescription>
