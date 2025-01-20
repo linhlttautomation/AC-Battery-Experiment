@@ -2,5 +2,5 @@
 # Dự án của tôi
 
 Đây là ảnh minh họa:
-![Hình minh họa](Screenshot 2025-01-20 201954.png)
+![Hình minh họa](Experimental model.png)
 
