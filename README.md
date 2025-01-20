@@ -1,6 +1,6 @@
 # AC-Battery-Experiment
 # Dự án của tôi
 
-Đây là ảnh minh họa:
-![Hình minh họa](Experimental model.png)
+![Hình minh họa](https://github.com/linhlttautomation/AC-Battery-Experiment/blob/main/Experimental%20model.png)
+
 
