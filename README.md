@@ -3,7 +3,7 @@
 ## Experimental Model
 ![Experimental Model](https://github.com/linhlttautomation/AC-Battery-Experiment/blob/main/Experimental%20Model.png)
 
-## Code Structure
+## Code Structure Four-leg Converter
 ![Code Structure](https://github.com/linhlttautomation/AC-Battery-Experiment/blob/main/Code%20Structure.png)
 
 ## Overall Result
